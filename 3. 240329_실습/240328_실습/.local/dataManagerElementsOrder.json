@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "adrress&Sequence_57",
+        "a&Sequence_55",
+        "b&Sequence_55",
+        "c&Sequence_55",
+        "d&Sequence_55",
+        "e&Sequence_55",
+        "total&Sequence_45",
+        "st1&Sequence_45",
+        "text2&Sequence_44",
+        "text1&Sequence_44",
+        "st&Sequence_45",
+        "toal&Sequence_45",
+        "save&Sequence_32",
+        "output&Sequence_32",
+        "variable1&Sequence_32",
+        "save&Sequence_29",
+        "str_나라&Sequence_14",
+        "EDate&Sequence_2",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
